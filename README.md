@@ -7,12 +7,12 @@
           <b>Full Stack Developer</b>
         </p>
         <p>
-          I build complete, scalable web applications from scratch, with a deep passion for <b>server-side logic</b> and <b>system architecture</b>.
+          I build scalable <b>Web, Mobile, & Desktop</b> apps, with a deep passion for <b>server-side logic</b> and <b>AI integration</b>.
         </p>
         <p>
           🔹 <b>Core:</b> Microservices, REST APIs, JWT Auth.<br>
           🔹 <b>Data & Cloud:</b> MySQL, MongoDB, Azure, Oracle.<br>
-          🔹 <b>Frontend:</b> Connecting React UIs with complex APIs.
+          🔹 <b>Platforms:</b> React (Web), React Native (Mobile), JavaFX (Desktop).
         </p>
         <p align="left">
           <a href="www.linkedin.com/in/chamith-bhanuka">
