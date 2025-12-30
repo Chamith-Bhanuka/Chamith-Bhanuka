@@ -15,7 +15,7 @@
           🔹 <b>Platforms:</b> React (Web), React Native (Mobile), JavaFX (Desktop).
         </p>
         <p align="left">
-          <a href="www.linkedin.com/in/chamith-bhanuka">
+          <a href="https://www.linkedin.com/in/chamith-bhanuka">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
           </a>
           <a href="mailto:c.bhanukawp2002@gmail.com">
